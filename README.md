@@ -3,8 +3,9 @@
 
 <p align="center">Undergrad at IIT Madras</p>
 
-
-<h2 align="center">*My Stats*</h2>
+<!--
+-->
+!<h2 align="center">*My Stats*</h2>
 
 <!--
 -->
