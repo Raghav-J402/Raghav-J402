@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raghav Jangid</h1>
 <l align="center">Undergrad at IIT Madras</l>
-<!
---> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav-J402&theme=radical)
+<!--
+--> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav-J402&theme=radical)
 <!--
 **Raghav-J402/Raghav-J402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
