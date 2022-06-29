@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Jangid</h1>
 
-<p align="center"><i>Undergrad at IIT Madras, Chennai</i></p>
+<p align="center">Undergrad at IIT Madras, Chennai</p>
 
 <l></l>
 <l></l>
