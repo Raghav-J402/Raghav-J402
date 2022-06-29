@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Jangid</h1>
 
 
-<p align="center"><span style="color:green;font-weight:700;font-size:20px"> 
+<span style="color:green;font-weight:700;font-size:20px"> 
 markdown color font styles
-</span></p>
+</span>
 
 <l></l>
 <l></l>
