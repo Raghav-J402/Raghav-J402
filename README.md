@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Jangid</h1>
-<h2 align= "center">Undergrad at IIT Madras</h2>
+<l align="center">Undergrad at IIT Madras</l>
 <!--
 **Raghav-J402/Raghav-J402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
