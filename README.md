@@ -7,5 +7,5 @@
 
 <!--
 -->
-!<h2 align="center">*My Stats*</h2>
+--> <h2 align="center">*My Stats*</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghav-J402&theme=radical)
