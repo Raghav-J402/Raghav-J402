@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Jangid</h1>
 
-
-<span style="color:green;font-weight:700;font-size:20px"> 
-markdown color font styles
-</span>
+<p align="center"><b>Undergrad at IIT Madras, Chennai</b></p>
 
 <l></l>
 <l></l>
