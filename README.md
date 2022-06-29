@@ -3,7 +3,11 @@
 
 <p align="center">Undergrad at IIT Madras</p>
 
-
+<l></l>
+<l></l>
+<l></l>
+<l></l>
+<l></l>
 
 <h2 align="center"><i>My Stats</i></h2>
 
