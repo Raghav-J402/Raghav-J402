@@ -3,7 +3,7 @@
 --> 
 
 
-<p align="center"><font size=1>Undergrad at IIT Madras</font></p>
+<p align="center"><font size=4>Undergrad at IIT Madras</font></p>
 
 <!--
 -->
